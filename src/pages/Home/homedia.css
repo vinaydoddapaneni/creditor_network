@@ -1,0 +1,45 @@
+/*
+####################################################
+M E D I A  Q U E R I E S
+####################################################
+*/
+
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Bootstrap 4 breakpoints
+*/
+
+
+/* 
+Extra small devices (portrait phones, less than 576px) 
+No media query since this is the default in Bootstrap because it is "mobile first"
+*/
+
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px){
+    .offset-sm-1c {
+        margin-left: 9%;
+    }
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 1400px) {
+    
+  }
+  @media screen and (min-width: 1600px) {
+    
+  }
+  @media screen and (min-width: 1900px) {
+    .offset-sm-1c {
+        margin-left: 91%;
+    }
+    
+  }
